@@ -244,6 +244,7 @@ h4 {
     font-family: 'Yatra One', cursive;
     background-color:mediumaquamarine
   }
+  
   .page:nth-child(odd){
     background-position: right top;
   }
